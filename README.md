@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **joshimihir2004@gmail.com**
 
-- ⚡ Fun fact **I listen to slow music while i code**
+- ⚡ Fun fact **I listen to music while i code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
