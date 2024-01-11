@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=j-mihir&label=Profile%20views&color=0e75b6&style=flat" alt="j-mihir" /> </p>
 
-- 🌱 I’m currently exploring **backend development**
+- 🌱 I’m currently learning **next.js**
 
-- 👯 I’m looking to collaborate on **projects related to backend**
+- 👯 I’m looking to collaborate on **projects**
 
 - 🤝 I’m looking for help with **DevOps**
 
-- 💬 Ask me about **node**
+- 💬 Ask me about **languages**
 
 - 📫 How to reach me **joshimihir2004@gmail.com**
 
