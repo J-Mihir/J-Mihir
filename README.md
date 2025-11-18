@@ -15,7 +15,7 @@
 
 <img align="right" src="assets/003.gif" width="200"/>
 
-- 🎓 I'm a 3rd year CSE student at VIT Vellore  
+- 🎓 I'm a 4th year CSE student at VIT Vellore  
 - 🛠️ Currently learning:
   - Next.js
   - CCNA Networking & Protocols
